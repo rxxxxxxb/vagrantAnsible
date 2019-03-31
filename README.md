@@ -1,2 +1,2 @@
 # vagrantAnsible
-Trying vagrant with Ansible
+     ![Vagrant Logo](http://i.imgur.com/W65dAcT.png)
